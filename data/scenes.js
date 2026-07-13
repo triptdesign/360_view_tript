@@ -2,21 +2,21 @@ window.PANORAMA_SCENES = [
     {
         "id": "bedroom",
         "title": "Bedroom",
-        "file": "bedroom.png"
+        "file": "bedroom.webp"
     },
     {
         "id": "cafe",
         "title": "Cafe",
-        "file": "cafe.png"
+        "file": "cafe.webp"
     },
     {
         "id": "lobby",
         "title": "Lobby",
-        "file": "lobby.png"
+        "file": "lobby.webp"
     },
     {
         "id": "powder room",
         "title": "Powder Room",
-        "file": "powder room.png"
+        "file": "powder room.webp"
     }
 ];
